@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25635
     wikipedia: http://en.wikipedia.org/wiki/William_Howard_Russell
 description: Seekabel, Unterwasserkabel ; Kabelanlage, Linienanlage (Fernmeldebetrieb).
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40948#The-Atlantic-Telegraph
 gutenberg_issued: '2012-10-05'
 gutenberg_type: Text
 identifiers:
