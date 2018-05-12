@@ -1,0 +1,29 @@
+_repo: The-Atlantic-Telegraph_40948
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40948-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Russell, William Howard, Sir
+    alias: Russell, W. H. (William Howard), Sir
+    birthdate: 1820
+    deathdate: 1907
+    gutenberg_agent_id: '25635'
+    url: http://www.gutenberg.org/2009/agents/25635
+    wikipedia: http://en.wikipedia.org/wiki/William_Howard_Russell
+description: Seekabel, Unterwasserkabel ; Kabelanlage, Linienanlage (Fernmeldebetrieb).
+gutenberg_issued: '2012-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40948'
+  lccn: '75184620'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Transatlantic cables'
+- !lcc 'TK'
+title: The Atlantic Telegraph (1865)
+url: http://www.gutenberg.org/ebooks/40948
